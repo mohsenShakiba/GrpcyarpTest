@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lvcZdjLFw8o3Q7WLGUlgITbcOFRdkDf7i1KWOpWdQTKIzO44Azqq1ScjGRPz0XMZgAtaAz/qxDyup4dCMO7BgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\m.shakiba.PSZ021-PC\\Desktop\\Projects\\GrpcYarpTest\\YarpService\\YarpService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.shakiba.PSZ021-PC\\.nuget\\packages\\yarp.reverseproxy\\1.0.0-preview.11.21223.5\\yarp.reverseproxy.1.0.0-preview.11.21223.5.nupkg.sha512"
+  ],
+  "logs": []
+}
